@@ -1,3 +1,6 @@
 just added this file 
 
 changed this file
+
+3 way merge 
+
